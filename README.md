@@ -1,1 +1,1 @@
-# tutorial_mean
+# tutorial_MEAN
